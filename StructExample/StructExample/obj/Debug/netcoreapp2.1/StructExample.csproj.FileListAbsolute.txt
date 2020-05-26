@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/bin/Debug/netcoreapp2.1/StructExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/bin/Debug/netcoreapp2.1/StructExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/bin/Debug/netcoreapp2.1/StructExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/bin/Debug/netcoreapp2.1/StructExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/bin/Debug/netcoreapp2.1/StructExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/obj/Debug/netcoreapp2.1/StructExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/obj/Debug/netcoreapp2.1/StructExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/obj/Debug/netcoreapp2.1/StructExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/obj/Debug/netcoreapp2.1/StructExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/obj/Debug/netcoreapp2.1/StructExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/StructExample/StructExample/obj/Debug/netcoreapp2.1/StructExample.pdb

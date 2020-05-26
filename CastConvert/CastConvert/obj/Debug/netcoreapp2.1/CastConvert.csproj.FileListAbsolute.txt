@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/bin/Debug/netcoreapp2.1/CastConvert.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/bin/Debug/netcoreapp2.1/CastConvert.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/bin/Debug/netcoreapp2.1/CastConvert.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/bin/Debug/netcoreapp2.1/CastConvert.dll
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/bin/Debug/netcoreapp2.1/CastConvert.pdb
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/obj/Debug/netcoreapp2.1/CastConvert.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/obj/Debug/netcoreapp2.1/CastConvert.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/obj/Debug/netcoreapp2.1/CastConvert.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/obj/Debug/netcoreapp2.1/CastConvert.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/obj/Debug/netcoreapp2.1/CastConvert.dll
+/Users/mercifulrookie/Documents/VB/Projects/CastConvert/CastConvert/obj/Debug/netcoreapp2.1/CastConvert.pdb

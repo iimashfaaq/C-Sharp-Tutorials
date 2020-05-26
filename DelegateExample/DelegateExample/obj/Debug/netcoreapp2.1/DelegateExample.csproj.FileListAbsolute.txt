@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/bin/Debug/netcoreapp2.1/DelegateExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/bin/Debug/netcoreapp2.1/DelegateExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/bin/Debug/netcoreapp2.1/DelegateExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/bin/Debug/netcoreapp2.1/DelegateExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/bin/Debug/netcoreapp2.1/DelegateExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/obj/Debug/netcoreapp2.1/DelegateExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/obj/Debug/netcoreapp2.1/DelegateExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/obj/Debug/netcoreapp2.1/DelegateExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/obj/Debug/netcoreapp2.1/DelegateExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/obj/Debug/netcoreapp2.1/DelegateExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/DelegateExample/DelegateExample/obj/Debug/netcoreapp2.1/DelegateExample.pdb

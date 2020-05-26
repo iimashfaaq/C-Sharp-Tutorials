@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/bin/Debug/netcoreapp2.1/Exception_example.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/bin/Debug/netcoreapp2.1/Exception_example.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/bin/Debug/netcoreapp2.1/Exception_example.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/bin/Debug/netcoreapp2.1/Exception_example.dll
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/bin/Debug/netcoreapp2.1/Exception_example.pdb
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/obj/Debug/netcoreapp2.1/Exception_example.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/obj/Debug/netcoreapp2.1/Exception_example.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/obj/Debug/netcoreapp2.1/Exception_example.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/obj/Debug/netcoreapp2.1/Exception_example.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/obj/Debug/netcoreapp2.1/Exception_example.dll
+/Users/mercifulrookie/Documents/VB/Projects/Exception_example/Exception_example/obj/Debug/netcoreapp2.1/Exception_example.pdb

@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/obj/Debug/netcoreapp2.1/BoxingAndUnboxing.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/obj/Debug/netcoreapp2.1/BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/obj/Debug/netcoreapp2.1/BoxingAndUnboxing.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/obj/Debug/netcoreapp2.1/BoxingAndUnboxing.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/bin/Debug/netcoreapp2.1/BoxingAndUnboxing.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/bin/Debug/netcoreapp2.1/BoxingAndUnboxing.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/bin/Debug/netcoreapp2.1/BoxingAndUnboxing.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/bin/Debug/netcoreapp2.1/BoxingAndUnboxing.dll
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/bin/Debug/netcoreapp2.1/BoxingAndUnboxing.pdb
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/obj/Debug/netcoreapp2.1/BoxingAndUnboxing.dll
+/Users/mercifulrookie/Documents/VB/Projects/BoxingAndUnboxing/BoxingAndUnboxing/obj/Debug/netcoreapp2.1/BoxingAndUnboxing.pdb
