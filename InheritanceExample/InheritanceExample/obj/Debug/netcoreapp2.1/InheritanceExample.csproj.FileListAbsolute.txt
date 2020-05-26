@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp2.1/InheritanceExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp2.1/InheritanceExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp2.1/InheritanceExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp2.1/InheritanceExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp2.1/InheritanceExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp2.1/InheritanceExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp2.1/InheritanceExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp2.1/InheritanceExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/bin/Debug/netcoreapp2.1/InheritanceExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp2.1/InheritanceExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/InheritanceExample/InheritanceExample/obj/Debug/netcoreapp2.1/InheritanceExample.pdb

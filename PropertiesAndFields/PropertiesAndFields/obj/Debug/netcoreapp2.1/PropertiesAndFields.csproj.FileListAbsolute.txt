@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/bin/Debug/netcoreapp2.1/PropertiesAndFields.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/bin/Debug/netcoreapp2.1/PropertiesAndFields.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/bin/Debug/netcoreapp2.1/PropertiesAndFields.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/bin/Debug/netcoreapp2.1/PropertiesAndFields.dll
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/bin/Debug/netcoreapp2.1/PropertiesAndFields.pdb
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/obj/Debug/netcoreapp2.1/PropertiesAndFields.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/obj/Debug/netcoreapp2.1/PropertiesAndFields.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/obj/Debug/netcoreapp2.1/PropertiesAndFields.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/obj/Debug/netcoreapp2.1/PropertiesAndFields.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/obj/Debug/netcoreapp2.1/PropertiesAndFields.dll
+/Users/mercifulrookie/Documents/VB/Projects/PropertiesAndFields/PropertiesAndFields/obj/Debug/netcoreapp2.1/PropertiesAndFields.pdb

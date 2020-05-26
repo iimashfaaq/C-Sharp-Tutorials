@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0F035D03-801E-4221-BB2E-DD579FCC3E04}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HashingExample/Program.cs">
+    <Files>
+      <File FileName="HashingExample/Program.cs" Line="55" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HashingExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

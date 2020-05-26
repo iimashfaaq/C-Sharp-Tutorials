@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/bin/Debug/netcoreapp2.1/IEnumerableExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/bin/Debug/netcoreapp2.1/IEnumerableExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/bin/Debug/netcoreapp2.1/IEnumerableExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/bin/Debug/netcoreapp2.1/IEnumerableExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/bin/Debug/netcoreapp2.1/IEnumerableExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/obj/Debug/netcoreapp2.1/IEnumerableExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/obj/Debug/netcoreapp2.1/IEnumerableExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/obj/Debug/netcoreapp2.1/IEnumerableExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/obj/Debug/netcoreapp2.1/IEnumerableExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/obj/Debug/netcoreapp2.1/IEnumerableExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/IEnumerableExample/IEnumerableExample/obj/Debug/netcoreapp2.1/IEnumerableExample.pdb

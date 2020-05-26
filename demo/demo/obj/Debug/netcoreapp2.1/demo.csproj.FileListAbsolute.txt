@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/bin/Debug/netcoreapp2.1/demo.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/bin/Debug/netcoreapp2.1/demo.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/bin/Debug/netcoreapp2.1/demo.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/bin/Debug/netcoreapp2.1/demo.dll
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/bin/Debug/netcoreapp2.1/demo.pdb
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/obj/Debug/netcoreapp2.1/demo.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/obj/Debug/netcoreapp2.1/demo.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/obj/Debug/netcoreapp2.1/demo.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/obj/Debug/netcoreapp2.1/demo.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/obj/Debug/netcoreapp2.1/demo.dll
+/Users/mercifulrookie/Documents/VB/Projects/demo/demo/obj/Debug/netcoreapp2.1/demo.pdb

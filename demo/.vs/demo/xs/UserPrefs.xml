@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyView.cs">
+    <Files>
+      <File FileName="demo/Program.cs" Line="1" Column="14" />
+      <File FileName="MyPage.cs" Line="1" Column="1" />
+      <File FileName="MyView.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/mercifulrookie/Documents/VB/Projects/demo/MyView.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>demo/demo.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

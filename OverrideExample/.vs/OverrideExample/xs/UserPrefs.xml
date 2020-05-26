@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{49B747E7-64E6-4BE3-A2E0-D43770E5FC21}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OverrideExample/Program.cs">
+    <Files>
+      <File FileName="OverrideExample/Program.cs" Line="21" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OverrideExample" expanded="True">
+            <Node name="OverrideExample" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OverrideExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

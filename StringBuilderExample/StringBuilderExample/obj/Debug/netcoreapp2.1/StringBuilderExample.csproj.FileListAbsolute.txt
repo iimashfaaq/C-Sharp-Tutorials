@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/bin/Debug/netcoreapp2.1/StringBuilderExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/bin/Debug/netcoreapp2.1/StringBuilderExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/bin/Debug/netcoreapp2.1/StringBuilderExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/bin/Debug/netcoreapp2.1/StringBuilderExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/bin/Debug/netcoreapp2.1/StringBuilderExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/obj/Debug/netcoreapp2.1/StringBuilderExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/obj/Debug/netcoreapp2.1/StringBuilderExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/obj/Debug/netcoreapp2.1/StringBuilderExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/obj/Debug/netcoreapp2.1/StringBuilderExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/obj/Debug/netcoreapp2.1/StringBuilderExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/StringBuilderExample/StringBuilderExample/obj/Debug/netcoreapp2.1/StringBuilderExample.pdb

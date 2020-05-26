@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5FDAB1BC-6AA8-4FE0-9DA4-A1E6BDAD6DB2}|Default">
+  <MonoDevelop.Ide.ItemProperties.MultiThreadExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiThreadExample/Program.cs">
+    <Files>
+      <File FileName="MultiThreadExample/Program.cs" Line="14" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiThreadExample" expanded="True">
+            <Node name="MultiThreadExample" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/bin/Debug/netcoreapp2.1/HashingExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/bin/Debug/netcoreapp2.1/HashingExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/bin/Debug/netcoreapp2.1/HashingExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/bin/Debug/netcoreapp2.1/HashingExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/bin/Debug/netcoreapp2.1/HashingExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/obj/Debug/netcoreapp2.1/HashingExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/obj/Debug/netcoreapp2.1/HashingExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/obj/Debug/netcoreapp2.1/HashingExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/obj/Debug/netcoreapp2.1/HashingExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/obj/Debug/netcoreapp2.1/HashingExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/HashingExample/HashingExample/obj/Debug/netcoreapp2.1/HashingExample.pdb

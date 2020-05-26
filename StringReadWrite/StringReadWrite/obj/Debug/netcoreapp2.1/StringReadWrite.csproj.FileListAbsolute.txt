@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/bin/Debug/netcoreapp2.1/StringReadWrite.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/bin/Debug/netcoreapp2.1/StringReadWrite.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/bin/Debug/netcoreapp2.1/StringReadWrite.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/bin/Debug/netcoreapp2.1/StringReadWrite.dll
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/bin/Debug/netcoreapp2.1/StringReadWrite.pdb
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/obj/Debug/netcoreapp2.1/StringReadWrite.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/obj/Debug/netcoreapp2.1/StringReadWrite.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/obj/Debug/netcoreapp2.1/StringReadWrite.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/obj/Debug/netcoreapp2.1/StringReadWrite.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/obj/Debug/netcoreapp2.1/StringReadWrite.dll
+/Users/mercifulrookie/Documents/VB/Projects/StringReadWrite/StringReadWrite/obj/Debug/netcoreapp2.1/StringReadWrite.pdb

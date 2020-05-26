@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp2.1/InterfaceExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp2.1/InterfaceExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp2.1/InterfaceExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp2.1/InterfaceExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp2.1/InterfaceExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp2.1/InterfaceExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp2.1/InterfaceExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp2.1/InterfaceExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp2.1/InterfaceExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp2.1/InterfaceExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp2.1/InterfaceExample.pdb

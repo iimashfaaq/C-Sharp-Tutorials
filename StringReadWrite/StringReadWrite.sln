@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReadWrite", "StringReadWrite\StringReadWrite.csproj", "{CD0132D4-D25A-4599-8601-FA2167E27DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0132D4-D25A-4599-8601-FA2167E27DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0132D4-D25A-4599-8601-FA2167E27DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0132D4-D25A-4599-8601-FA2167E27DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0132D4-D25A-4599-8601-FA2167E27DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

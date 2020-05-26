@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4E1D4DC7-FB33-416E-945A-87D9B86D63B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.OverloadingExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OverloadingExample/Program.cs">
+    <Files>
+      <File FileName="OverloadingExample/Program.cs" Line="48" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OverloadingExample" expanded="True">
+            <Node name="OverloadingExample" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

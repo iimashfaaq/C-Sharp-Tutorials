@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/bin/Debug/netcoreapp2.1/MulticastDelegate.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/bin/Debug/netcoreapp2.1/MulticastDelegate.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/bin/Debug/netcoreapp2.1/MulticastDelegate.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/bin/Debug/netcoreapp2.1/MulticastDelegate.dll
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/bin/Debug/netcoreapp2.1/MulticastDelegate.pdb
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/obj/Debug/netcoreapp2.1/MulticastDelegate.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/obj/Debug/netcoreapp2.1/MulticastDelegate.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/obj/Debug/netcoreapp2.1/MulticastDelegate.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/obj/Debug/netcoreapp2.1/MulticastDelegate.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/obj/Debug/netcoreapp2.1/MulticastDelegate.dll
+/Users/mercifulrookie/Documents/VB/Projects/MulticastDelegate/MulticastDelegate/obj/Debug/netcoreapp2.1/MulticastDelegate.pdb

@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/obj/Debug/netcoreapp2.1/Explicit_Interface.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/obj/Debug/netcoreapp2.1/Explicit_Interface.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/obj/Debug/netcoreapp2.1/Explicit_Interface.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/obj/Debug/netcoreapp2.1/Explicit_Interface.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/bin/Debug/netcoreapp2.1/Explicit_Interface.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/bin/Debug/netcoreapp2.1/Explicit_Interface.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/bin/Debug/netcoreapp2.1/Explicit_Interface.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/bin/Debug/netcoreapp2.1/Explicit_Interface.dll
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/bin/Debug/netcoreapp2.1/Explicit_Interface.pdb
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/obj/Debug/netcoreapp2.1/Explicit_Interface.dll
+/Users/mercifulrookie/Documents/VB/Projects/Explicit_Interface/Explicit_Interface/obj/Debug/netcoreapp2.1/Explicit_Interface.pdb

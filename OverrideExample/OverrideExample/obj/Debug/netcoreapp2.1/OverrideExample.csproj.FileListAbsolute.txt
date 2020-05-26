@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/bin/Debug/netcoreapp2.1/OverrideExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/bin/Debug/netcoreapp2.1/OverrideExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/bin/Debug/netcoreapp2.1/OverrideExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/bin/Debug/netcoreapp2.1/OverrideExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/bin/Debug/netcoreapp2.1/OverrideExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/obj/Debug/netcoreapp2.1/OverrideExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/obj/Debug/netcoreapp2.1/OverrideExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/obj/Debug/netcoreapp2.1/OverrideExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/obj/Debug/netcoreapp2.1/OverrideExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/obj/Debug/netcoreapp2.1/OverrideExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/OverrideExample/OverrideExample/obj/Debug/netcoreapp2.1/OverrideExample.pdb

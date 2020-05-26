@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/bin/Debug/netcoreapp2.1/MultiThreadExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/bin/Debug/netcoreapp2.1/MultiThreadExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/bin/Debug/netcoreapp2.1/MultiThreadExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/bin/Debug/netcoreapp2.1/MultiThreadExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/bin/Debug/netcoreapp2.1/MultiThreadExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/obj/Debug/netcoreapp2.1/MultiThreadExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/obj/Debug/netcoreapp2.1/MultiThreadExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/obj/Debug/netcoreapp2.1/MultiThreadExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/obj/Debug/netcoreapp2.1/MultiThreadExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/obj/Debug/netcoreapp2.1/MultiThreadExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/MultiThreadExample/MultiThreadExample/obj/Debug/netcoreapp2.1/MultiThreadExample.pdb

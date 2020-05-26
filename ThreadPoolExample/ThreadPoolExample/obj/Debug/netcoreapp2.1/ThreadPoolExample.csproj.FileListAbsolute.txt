@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/bin/Debug/netcoreapp2.1/ThreadPoolExample.deps.json
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/bin/Debug/netcoreapp2.1/ThreadPoolExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/bin/Debug/netcoreapp2.1/ThreadPoolExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/bin/Debug/netcoreapp2.1/ThreadPoolExample.dll
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/bin/Debug/netcoreapp2.1/ThreadPoolExample.pdb
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/obj/Debug/netcoreapp2.1/ThreadPoolExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/obj/Debug/netcoreapp2.1/ThreadPoolExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/obj/Debug/netcoreapp2.1/ThreadPoolExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/obj/Debug/netcoreapp2.1/ThreadPoolExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/obj/Debug/netcoreapp2.1/ThreadPoolExample.dll
+/Users/mercifulrookie/Documents/VB/ThreadPoolExample/ThreadPoolExample/obj/Debug/netcoreapp2.1/ThreadPoolExample.pdb

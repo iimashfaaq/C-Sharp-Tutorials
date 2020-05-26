@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/bin/Debug/netcoreapp2.1/ExtensionExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/bin/Debug/netcoreapp2.1/ExtensionExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/bin/Debug/netcoreapp2.1/ExtensionExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/bin/Debug/netcoreapp2.1/ExtensionExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/bin/Debug/netcoreapp2.1/ExtensionExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/obj/Debug/netcoreapp2.1/ExtensionExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/obj/Debug/netcoreapp2.1/ExtensionExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/obj/Debug/netcoreapp2.1/ExtensionExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/obj/Debug/netcoreapp2.1/ExtensionExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/obj/Debug/netcoreapp2.1/ExtensionExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/ExtensionExample/ExtensionExample/obj/Debug/netcoreapp2.1/ExtensionExample.pdb

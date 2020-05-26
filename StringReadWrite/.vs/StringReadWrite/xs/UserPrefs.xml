@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CD0132D4-D25A-4599-8601-FA2167E27DC0}|Default">
+  <MonoDevelop.Ide.ItemProperties.StringReadWrite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringReadWrite/Program.cs">
+    <Files>
+      <File FileName="StringReadWrite/Program.cs" Line="44" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringReadWrite" expanded="True">
+            <Node name="StringReadWrite" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

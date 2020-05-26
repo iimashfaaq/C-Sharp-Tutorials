@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/bin/Debug/netcoreapp2.1/ExcryptingFiles.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/bin/Debug/netcoreapp2.1/ExcryptingFiles.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/bin/Debug/netcoreapp2.1/ExcryptingFiles.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/bin/Debug/netcoreapp2.1/ExcryptingFiles.dll
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/bin/Debug/netcoreapp2.1/ExcryptingFiles.pdb
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/obj/Debug/netcoreapp2.1/ExcryptingFiles.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/obj/Debug/netcoreapp2.1/ExcryptingFiles.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/obj/Debug/netcoreapp2.1/ExcryptingFiles.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/obj/Debug/netcoreapp2.1/ExcryptingFiles.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/obj/Debug/netcoreapp2.1/ExcryptingFiles.dll
+/Users/mercifulrookie/Documents/VB/Projects/ExcryptingFiles/ExcryptingFiles/obj/Debug/netcoreapp2.1/ExcryptingFiles.pdb

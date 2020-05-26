@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/bin/Debug/netcoreapp2.1/GenericsExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/bin/Debug/netcoreapp2.1/GenericsExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/bin/Debug/netcoreapp2.1/GenericsExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/bin/Debug/netcoreapp2.1/GenericsExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/bin/Debug/netcoreapp2.1/GenericsExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/obj/Debug/netcoreapp2.1/GenericsExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/obj/Debug/netcoreapp2.1/GenericsExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/obj/Debug/netcoreapp2.1/GenericsExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/obj/Debug/netcoreapp2.1/GenericsExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/obj/Debug/netcoreapp2.1/GenericsExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/GenericsExample/GenericsExample/obj/Debug/netcoreapp2.1/GenericsExample.pdb

@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/bin/Debug/netcoreapp2.1/EventArgsExample.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/bin/Debug/netcoreapp2.1/EventArgsExample.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/bin/Debug/netcoreapp2.1/EventArgsExample.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/bin/Debug/netcoreapp2.1/EventArgsExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/bin/Debug/netcoreapp2.1/EventArgsExample.pdb
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/obj/Debug/netcoreapp2.1/EventArgsExample.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/obj/Debug/netcoreapp2.1/EventArgsExample.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/obj/Debug/netcoreapp2.1/EventArgsExample.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/obj/Debug/netcoreapp2.1/EventArgsExample.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/obj/Debug/netcoreapp2.1/EventArgsExample.dll
+/Users/mercifulrookie/Documents/VB/Projects/EventArgsExample/EventArgsExample/obj/Debug/netcoreapp2.1/EventArgsExample.pdb

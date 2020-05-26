@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{56188F2A-3E41-4888-A8A3-CA4CA5531987}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExcryptingFiles/Program.cs">
+    <Files>
+      <File FileName="ExcryptingFiles/Program.cs" Line="48" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExcryptingFiles" expanded="True">
+            <Node name="ExcryptingFiles" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExcryptingFiles PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
