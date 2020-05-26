@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/bin/Debug/netcoreapp2.1/EventHandler.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/bin/Debug/netcoreapp2.1/EventHandler.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/bin/Debug/netcoreapp2.1/EventHandler.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/bin/Debug/netcoreapp2.1/EventHandler.dll
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/bin/Debug/netcoreapp2.1/EventHandler.pdb
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/obj/Debug/netcoreapp2.1/EventHandler.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/obj/Debug/netcoreapp2.1/EventHandler.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/obj/Debug/netcoreapp2.1/EventHandler.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/obj/Debug/netcoreapp2.1/EventHandler.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/obj/Debug/netcoreapp2.1/EventHandler.dll
+/Users/mercifulrookie/Documents/VB/Projects/EventHandler/EventHandler/obj/Debug/netcoreapp2.1/EventHandler.pdb

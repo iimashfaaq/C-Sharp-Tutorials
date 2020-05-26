@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.dll
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.pdb
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.dll
+/Users/mercifulrookie/Documents/VB/Projects/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.pdb

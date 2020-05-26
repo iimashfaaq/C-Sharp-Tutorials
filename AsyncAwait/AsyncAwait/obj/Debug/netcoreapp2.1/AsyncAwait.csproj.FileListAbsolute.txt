@@ -1,0 +1,11 @@
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/bin/Debug/netcoreapp2.1/AsyncAwait.deps.json
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/bin/Debug/netcoreapp2.1/AsyncAwait.runtimeconfig.json
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/bin/Debug/netcoreapp2.1/AsyncAwait.runtimeconfig.dev.json
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/bin/Debug/netcoreapp2.1/AsyncAwait.dll
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/bin/Debug/netcoreapp2.1/AsyncAwait.pdb
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/obj/Debug/netcoreapp2.1/AsyncAwait.csprojAssemblyReference.cache
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/obj/Debug/netcoreapp2.1/AsyncAwait.csproj.CoreCompileInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/obj/Debug/netcoreapp2.1/AsyncAwait.AssemblyInfoInputs.cache
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/obj/Debug/netcoreapp2.1/AsyncAwait.AssemblyInfo.cs
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/obj/Debug/netcoreapp2.1/AsyncAwait.dll
+/Users/mercifulrookie/Documents/VB/Projects/AsyncAwait/AsyncAwait/obj/Debug/netcoreapp2.1/AsyncAwait.pdb
